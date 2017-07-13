@@ -1,0 +1,25 @@
+{
+  "name": "overflowwallet",
+  "version": "1.0.0",
+  "description": "OverflowWallet Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirtueFintech/OverflowWallet.git"
+  },
+  "keywords": [
+    "Solidity"
+  ],
+  "author": "Hisham Ismail <1ofdafew@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirtueFintech/OverflowWallet/issues"
+  },
+  "homepage": "https://github.com/VirtueFintech/OverflowWallet#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.1.0"
+  }
+}
